@@ -66,7 +66,7 @@ int main(int argc , char *argv[])
 	     printf("Answer:%d%d%d%d\n",answer[0],answer[1],answer[2],answer[3]);
 
 
-        //¦^¶Çclient
+        //å‚³å›žclient
 
 	while(1)
 	{
