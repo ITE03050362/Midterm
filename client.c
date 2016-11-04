@@ -35,7 +35,7 @@ int main(int argc , char *argv[])
 
      while(1)
      {
-	printf("�п�J4�ӼƦr:");
+	printf("請輸入4個數字:");
 	scanf("%s",msg);
 
         if( send(socket_desc , msg , strlen(msg) , 0) < 0)
